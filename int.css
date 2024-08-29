@@ -100,3 +100,24 @@ footer{
     padding: 16px 0;
     text-align: center;
 }
+#Rumores{
+    background-color: rgba(84, 133, 86, 0.1);
+}
+
+#Rumores .articles article a{
+    background-color: rgb(60, 229, 189);
+}
+#Atulizações{
+    background-color: rgba(32, 228, 196, 0.1);
+}
+
+#Atualizações .articles article a{
+    background-color: rgb(73, 164, 210);
+}
+#Lançamentos{
+    background-color: rgba(68, 183, 215, 0.1);
+}
+
+#Lancamentos .articles article a{
+    background-color: rgb(59, 144, 210);
+}
